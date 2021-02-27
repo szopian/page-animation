@@ -16,7 +16,7 @@
 
 nav {
   display: grid;
-  grid-template-columns: 10% 1fr 1fr 10%;
+  grid-template-columns: 10% 1fr 1fr 12%;
   min-height: 10vh;
   color: #494d5f;
   align-items: center;
@@ -40,7 +40,7 @@ section {
 }
 
 .hero {
-  height: 60%;
+  height: 70%;
   width: 100%;
   position: relative;
 }
