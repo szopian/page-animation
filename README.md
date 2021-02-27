@@ -1,3 +1,5 @@
 # page-animation
 
-in working progress...
+## Animated hero section about London
+
+<img src="images/img1.png" />
