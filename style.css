@@ -53,9 +53,19 @@ section {
 
 .headline {
   position: absolute;
-  top: 70%;
+  top: 40%;
   left: 10%;
   font-size: 60px;
+  transform: translate(-20%, -70%);
+  color: #e5eaf5;
+  z-index: 1;
+}
+
+.text {
+  position: absolute;
+  top: 70%;
+  left: 30%;
+  font-size: 24px;
   transform: translate(-20%, -70%);
   color: #e5eaf5;
   z-index: 1;
